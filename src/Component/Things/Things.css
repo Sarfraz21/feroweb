@@ -1,0 +1,16 @@
+.service-box{
+    text-align: center;
+    font-family: 'Italiana', serif;
+}
+.service-box i.fas{
+    font-size:30px;
+    margin-bottom:20px;
+}
+.section-head{
+    text-align: center;
+}
+.image_conta{
+    width: 980px;
+    height: 630px;
+    margin-top:80px;
+}

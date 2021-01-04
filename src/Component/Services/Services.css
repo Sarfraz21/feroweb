@@ -1,0 +1,15 @@
+.service-box{
+    text-align: center;
+    font-family: 'Italiana', serif;
+}
+.service-box i.fas{
+    font-size:30px;
+    margin-bottom:20px;
+}
+.section{
+    padding-top: 70px;
+    padding-bottom:70px;
+}
+.section h2.section-head{
+    text-align: center;
+}
